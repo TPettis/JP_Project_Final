@@ -1,4 +1,4 @@
-# JP PROJECT BETA
+# JP PROJECT FINAL
 <b>Overview</b><br/>
   Creation of a program in Java for creating and recording all future production line items.
 
