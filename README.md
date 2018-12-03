@@ -16,6 +16,3 @@
   gathers all of the created methods and fields into one product being made. It implements all of the methods from the
   Item interface and will provide a type for the product. It also overrides the toString method to provide a pre-formatted
   message describing the product created.
-
-<b>Class Diagram</b><br/>
-<img src = "ClassDiagram.PNG" />
