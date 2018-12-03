@@ -27,16 +27,32 @@ public class Main {
     //PlayerDriver.testPlayer();
 
     //ArrayList of products
-    ArrayList<Product> products = new ArrayList<>();
+    //ArrayList<Product> products = new ArrayList<>();
 
     //Assign testCollection results to products
-    products = testCollection();
+    //products = testCollection();
 
     //Sort the ArrayList
-    Collections.sort(products);
+    //Collections.sort(products);
 
     //Print method for ArrayList
-    print(products);
+    //print(products);
+
+    // Step 18
+    //EmployeeInfo employee = new EmployeeInfo();
+    //System.out.println(employee.getCode());
+
+    // Step 19
+    //EmployeeInfo employee = new EmployeeInfo();
+    //System.out.println(employee.toString());
+
+    //Steps 20-21
+    //EmployeeInfo employee = new EmployeeInfo();
+    //new ProcessFiles(employee);
+    //new ProcessFiles(products);
+
+    //Step 22
+    new ViewFileInfo();
   }
 
   public static ArrayList testCollection() {
